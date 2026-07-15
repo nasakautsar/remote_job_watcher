@@ -23,14 +23,14 @@ and exports all collected jobs into a single CSV file.
 
 ## Features
 
-- 🌐 Multi-source job aggregation
-- 📄 HTML scraping using BeautifulSoup
-- 🔗 JSON API integration
-- 🔁 Automatic retry mechanism
-- 📊 Unified CSV export
-- 🧩 Modular architecture
-- ⚠️ Graceful error handling
-- ➕ Easily extendable with new sources
+- Multi-source job aggregation
+- HTML scraping using BeautifulSoup
+- JSON API integration
+- Automatic retry mechanism
+- Unified CSV export
+- Modular architecture
+- Graceful error handling
+- Easily extendable with new sources
 
 ---
 
