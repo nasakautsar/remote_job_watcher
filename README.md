@@ -155,7 +155,7 @@ We Work Remotely,...
 ![Output3](screenshots/image3.png)
 ![Output4](screenshots/image4.png)
 
-
+---
 
 ## 🛠 Tech Stack
 
