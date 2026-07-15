@@ -202,7 +202,7 @@ MIT License
 
 ## Author
 
-**Nasakautsar**
+**nasakautsar**
 
 GitHub:
 https://github.com/nasakautsar
