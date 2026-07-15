@@ -138,6 +138,9 @@ Terminal
 Total Jobs: 342
 ```
 
+![Output](screenshots/output.png)
+
+
 CSV
 
 ```
