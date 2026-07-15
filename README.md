@@ -1,4 +1,4 @@
-# 🌍 Remote Job Watcher
+# Remote Job Watcher
 
 A modular Python application that aggregates remote job listings from multiple sources using both **HTML scraping** and **JSON APIs**, then exports them into a unified CSV file.
 
@@ -6,7 +6,7 @@ A modular Python application that aggregates remote job listings from multiple s
 
 ---
 
-## 📌 Overview
+## Overview
 
 Remote Job Watcher is designed to collect remote job opportunities from multiple websites using a modular architecture.
 
@@ -21,7 +21,7 @@ and exports all collected jobs into a single CSV file.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🌐 Multi-source job aggregation
 - 📄 HTML scraping using BeautifulSoup
@@ -34,7 +34,7 @@ and exports all collected jobs into a single CSV file.
 
 ---
 
-## 🌍 Supported Sources
+## Supported Sources
 
 | Source | Method |
 |---------|--------|
@@ -45,7 +45,7 @@ and exports all collected jobs into a single CSV file.
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 ```
                 Watcher
@@ -65,7 +65,7 @@ and exports all collected jobs into a single CSV file.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Remote Job Watcher/
@@ -85,7 +85,7 @@ Remote Job Watcher/
 
 ---
 
-## 📊 Exported Data
+## Exported Data
 
 Every source is converted into the same internal format.
 
@@ -103,7 +103,7 @@ Every source is converted into the same internal format.
 
 ---
 
-## ⚙ Installation
+## Installation
 
 Clone the repository
 
@@ -125,7 +125,7 @@ python watcher.py
 
 ---
 
-## 📈 Example Output
+## Example Output
 
 Terminal
 
@@ -157,7 +157,7 @@ We Work Remotely,...
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - Requests
@@ -166,7 +166,7 @@ We Work Remotely,...
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 Many job boards expose data differently.
 
@@ -182,7 +182,7 @@ This project demonstrates how a single architecture can support multiple data so
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - SQLite database
 - Scheduled scraping
@@ -194,13 +194,13 @@ This project demonstrates how a single architecture can support multiple data so
 
 ---
 
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nasakautsar**
 
