@@ -149,13 +149,11 @@ We Work Remotely,...
 
 Screenshots
 
-```
 ![Output1](screenshots/Image.png)
 ![Output2](screenshots/Image2.png)
 ![Output3](screenshots/Image3.png)
 ![Output4](screenshots/Image4.png)
 
-```
 
 
 ## 🛠 Tech Stack
