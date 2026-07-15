@@ -147,8 +147,6 @@ HN,...
 We Work Remotely,...
 ```
 
-Screenshots
-
 ![Output1](screenshots/image.png)
 ![Output2](screenshots/image2.png)
 ![Output3](screenshots/image3.png)
