@@ -108,7 +108,7 @@ Every source is converted into the same internal format.
 Clone the repository
 
 ```bash
-git clone https://github.com/nasakautsar/ai_news_monitor.git
+git clone https://github.com/nasakautsar/remote_job_watcher.git
 ```
 
 Install dependencies
